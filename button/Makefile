@@ -18,6 +18,8 @@
 ## along with this library.  If not, see <http://www.gnu.org/licenses/>.
 ##
 
+OPENCM3_DIR=../libopencm3
+
 BINARY = button
 
 LDSCRIPT = ../stm32-smart2.ld

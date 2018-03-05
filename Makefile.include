@@ -18,8 +18,6 @@
 ## along with this library.  If not, see <http://www.gnu.org/licenses/>.
 ##
 
-OPENCM3_DIR=../libopencm3
-
 LIBNAME		= opencm3_stm32f1
 DEFS		+= -DSTM32F1
 

@@ -27,5 +27,5 @@ MEMORY
 }
 
 /* Include the common ld script. */
-INCLUDE $(OPENCM3_DIR)/lib/stm32/f1/libopencm3_stm32f1.ld
+INCLUDE libopencm3_stm32f1.ld
 
